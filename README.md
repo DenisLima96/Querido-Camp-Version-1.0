@@ -1,10 +1,6 @@
 # 🖥️ Querido Camp - Campeonato de Counter-Strike 2
 
-![Image](https://github.com/user-attachments/assets/7c185395-b66d-41d6-98b9-8f032b43d5e2)
-
-![Image](https://github.com/user-attachments/assets/19b58e31-2a4f-475f-89bd-eb4ac377386a)
-
-![Image](https://github.com/user-attachments/assets/4262a272-925e-4d44-bcc6-82fe2c8a9818)
+https://querido-camp-version-1-0.vercel.app
 
 ## 💥 Sobre o Projeto
 
